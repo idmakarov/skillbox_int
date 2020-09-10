@@ -1,0 +1,9 @@
+# Ignore dump file
+*.pickle
+# Ignore test file
+test.py
+
+# Ignore virtual environment and cache
+/venv
+/__pycache__
+/.idea
